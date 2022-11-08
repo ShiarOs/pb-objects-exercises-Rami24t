@@ -15,7 +15,7 @@ console.log('1: ', isPlainObject([1, 2, 3])); // -> false
 console.log('1: ', isPlainObject(null)); // ->false
 console.log('1: ', isPlainObject('Stiring')); // -> false
 
-// //2
+// //2 
 // //write your code here
 // function makePairs(object) {
 //     return Object.entries(object)
